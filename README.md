@@ -15,6 +15,7 @@ CAPITULO 9
 
 CAPITULO 10
 
+![Diagrama en blanco (3)](https://user-images.githubusercontent.com/93899658/149350054-6816e905-44ff-4cfe-b7bf-f70916cdba87.png)
 
 
 RESOLUCION DE EERCICIOS 
